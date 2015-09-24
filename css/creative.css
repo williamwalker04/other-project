@@ -260,6 +260,11 @@ header .header-content .header-content-inner p {
     margin-bottom: 0;
 }
 
+.fb-page {
+    min-width:100%;
+        
+}
+
 .portfolio-box {
     display: block;
     position:relative;
